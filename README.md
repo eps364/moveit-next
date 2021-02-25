@@ -1,7 +1,9 @@
-![GitHub deployments](https://img.shields.io/github/deployments/eps364/moveit-next/production)
+![GitHub deployments](https://img.shields.io/github/deployments/eps364/moveit-next/production) 
 
-### https://moveit-next-eps364.vercel.app
+[Previewer on-line](https://moveit-next-eps364.vercel.app)
 
+
+---
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -18,9 +20,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-
-
-
+---
 #jornadainfinita
 
 #focopraticagrupo
